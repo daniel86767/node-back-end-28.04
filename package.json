@@ -28,5 +28,13 @@
   "dependencies": {
     "dotenv": "^16.5.0",
     "express": "^5.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniel86767/node-back-end-28.04.git"
+  },
+  "bugs": {
+    "url": "https://github.com/daniel86767/node-back-end-28.04/issues"
+  },
+  "homepage": "https://github.com/daniel86767/node-back-end-28.04#readme"
 }
